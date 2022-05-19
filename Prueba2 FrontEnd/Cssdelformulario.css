@@ -1,0 +1,26 @@
+body{
+    overflow-x: hidden;
+    background-image: url(./Pagina\ con\ boost/Halo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.container{
+    background-position: center;
+    
+    
+}
+.diseño{
+    max-width: 50em;
+    padding: 1.3em;
+    margin: 0 auto;
+    background-color: white;
+    font-weight:bold;
+    border-radius:0.5em;
+    box-shadow: inset 1px 1px 22px 4px rgb(0,0,0,0.85)
+}
+footer{
+    margin: 50px 0px 10px 0px;
+
+}
